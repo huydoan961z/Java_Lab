@@ -1,0 +1,6 @@
+view\Main.class
+view\ConsoleForm.class
+model\Toy.class
+view\Menu.class
+model\ToyList.class
+view\InputInformation.class
