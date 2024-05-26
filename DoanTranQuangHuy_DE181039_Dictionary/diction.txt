@@ -1,0 +1,4 @@
+glass:cai ly
+cat:con meo
+speaker:cai loa
+key:chia khoa
